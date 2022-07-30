@@ -9,5 +9,5 @@ em servidores, redes e hardware.
 
 Se eu puder ajudar em alguma coisa é só mandar um e-mail para [pdcassiano@gmail.com](mailto:pdcassiano@gmail.com)
 
-![Status do Meu Github](https://github-readme-stats.vercel.app/api?username=pdiegoneves&show_icons=true&theme=radical)
+![Status do Meu Github](https://github-readme-stats.vercel.app/api?username=pdiegoneves&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdiegoneves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
