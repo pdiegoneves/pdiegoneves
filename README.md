@@ -8,3 +8,5 @@ sempre trabalhei na área de TI, principalmente como gestor ou suporte. Tenho al
 em servidores, redes e hardware.
 
 Se eu puder ajudar em alguma coisa é só mandar um e-mail para [pdcassiano@gmail.com](mailto:pdcassiano@gmail.com)
+
+![Status do Meu Github](https://github-readme-stats.vercel.app/api?username=pdiegoneves&show_icons=true&theme=radical)
