@@ -1,11 +1,11 @@
 Meu nome é Diego Neves
 
-Sou iniciante em programação, mas já tenho alguns poucos projetos rodando em python (Flask) e 
-alguns sites em HTML + CSS, com um pouco de PHP quando necessário por conta da hospedagem.
+Sou Analista de Dados, atualmente atuando como Analista de Planejamento Logístico Sênior.
+Eu ajudo empresas a transformar dados em informação para facilitar e agilizar as tomadas de descisões.
 
-Apesar de programar profissionalmente a pouco tempo, venho estudanto o assunto a muito tempo, pois
-sempre trabalhei na área de TI, principalmente como gestor ou suporte. Tenho alguns anos de experiência
-em servidores, redes e hardware.
+Criador do canal [Power BI Brasil](https://www.youtube.com/@PowerBI-Brasil ), onde falo sobre criação de Dashboards com Power BI
+
+Gravando meu primeiro curso para colocar na Udemy, quando estiver no ar coloco aqui.
 
 Portifólio disponível em : [https://pdiegoneves.github.io/](https://pdiegoneves.github.io/)
 
